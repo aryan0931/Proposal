@@ -67,6 +67,10 @@ KubeEdge-Ianvs currently focuses on edge-cloud collaborative learning (training 
 
 ---
 
+
+<img width="828" alt="Screenshot 2024-10-12 at 3 59 55 PM" src="https://github.com/user-attachments/assets/d8a7006e-8bb8-46ff-9950-e86a193ac48b">
+
+
 **Change of Ianvs**  
 
 1. **Dataset Handling**  
