@@ -71,7 +71,19 @@ KubeEdge-Ianvs currently focuses on edge-cloud collaborative learning (training 
 <img width="828" alt="Screenshot 2024-10-12 at 3 59 55 PM" src="https://github.com/user-attachments/assets/d8a7006e-8bb8-46ff-9950-e86a193ac48b">
 
 
-**Change of Ianvs**  
+ **Multimodal Learning: Demonstrated Improvements in Inference Accuracy Over Single-Modal Data**
+
+- Image-based classification can effectively distinguish between broad document categories (e.g., passports vs. banking documents). However, it 
+  struggles with documents that share similar layouts or templates, where fine distinctions often depend on the text content. This limitation 
+  highlights the necessity for multimodal learning, which combines both visual and textual data for more accurate classification.**Change of 
+  Ianvs**  
+
+- The introduction of this multimodal network improves classification **accuracy by 3% on two specific datasets (Tobacco3482 and RVL-CDIP)** 
+  when compared to models that rely on only visual features. This improvement occurs even when the text extracted by OCR is not completely 
+  clean, proving the robustness of the multimodal approach.
+
+<img width="690" alt="Screenshot 2024-10-16 at 12 36 01 PM" src="https://github.com/user-attachments/assets/db44a52a-be7c-4d68-a416-4d0491c8a9b9">
+
 
 1. **Dataset Handling**  
    The `Dataset` class has been updated to handle multiple types of data such as text, images, and audio.
