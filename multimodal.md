@@ -1,6 +1,3 @@
-Here's a more comprehensive version of your proposal for the **Multimodal Large Model Joint Learning Algorithm: Reproduction Based on KubeEdge-Ianvs** project. It includes all relevant sections, details, and design elements you've provided.
-
----
 
 ### Multimodal Large Model Joint Learning Algorithm: Reproduction Based on KubeEdge-Ianvs
 
